@@ -117,10 +117,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code in your research, please cite our paper:
 
 ```
-@article{your-paper-reference,
-  title={CRISP: A Causal Relationships-Guided Deep Learning Framework for Advanced ICU Mortality Prediction},
-  author={Your Names},
-  journal={Your Journal},
-  year={2024}
+@article{wang2025crisp,
+  title={CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction},
+  author={Wang, Linna and Guo, Xinyu and Shi, Haoyue and Ma, Yuehang and Bao, Han and Jiang, Lihua and Zhao, Li and Feng, Ziliang and Zhu, Tao and Lu, Li},
+  journal={BMC Medical Informatics and Decision Making},
+  volume={25},
+  number={1},
+  pages={165},
+  year={2025},
+  publisher={BioMed Central London}
 }
 ```
